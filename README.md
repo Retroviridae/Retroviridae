@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- <a href="https://www.linkedin.com/in/alexander-schuessler/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+- <a href="https://drive.google.com/file/d/14AEBukQk8stLHsOE3yZpKJevcKlJhbY1/view?usp=sharing">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" alt="Google Drive"/>
   </a>
-- <a href="https://www.linkedin.com/in/alexander-schuessler/">
+- <a href="schuessler.alex@gmail.com">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 - <a href="https://www.linkedin.com/in/alexander-schuessler/">
