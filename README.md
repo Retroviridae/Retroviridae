@@ -5,8 +5,8 @@
 
 
 - [Resume][(https://docs.google.com/document/d/1e3WMbcsDELr6TnHYi2qc3wY9n3doJao6n2s2vHKF0l0/edit)](https://drive.google.com/file/d/14AEBukQk8stLHsOE3yZpKJevcKlJhbY1/view?usp=sharing)
-- [hagayhaut@gmail.com](hagayhaut@gmail.com)
-- Let's connect -> [LinkedIn](https://www.linkedin.com/in/hagay-haut/)
+- [hagayhaut@gmail.com](schuessler.alex@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/alexander-schuessler/)
 
 ## Skills
 
