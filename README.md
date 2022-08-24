@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Retroviridae&theme=highcontrast&show_icons=true&count_private=true)
 ![Leetcode stats](https://leetcard.jacoblin.cool/Retroviridae?theme=dark)
 
 <!--
