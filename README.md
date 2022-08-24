@@ -2,8 +2,8 @@
 
 - [Resume](https://drive.google.com/file/d/14AEBukQk8stLHsOE3yZpKJevcKlJhbY1/view?usp=sharing)
 - [Email](schuessler.alex@gmail.com)
-- <br></br>
-  <a href="https://www.linkedin.com/in/patrick-hart-m/">
+<br></br>
+- <a href="https://www.linkedin.com/in/patrick-hart-m/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
