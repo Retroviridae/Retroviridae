@@ -3,7 +3,7 @@
 
 - [Resume](https://drive.google.com/file/d/14AEBukQk8stLHsOE3yZpKJevcKlJhbY1/view?usp=sharing)
 - [LinkedIn](https://www.linkedin.com/in/alexander-schuessler/)
-- [schuessler.alex@gmail.com](schuessler.alex@gmail.com)
+- [Email](schuessler.alex@gmail.com)
 
 ## Skills
 
