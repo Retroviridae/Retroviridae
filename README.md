@@ -12,7 +12,7 @@
 <img align="left" alt="Rails" width="26px" src="https://pbs.twimg.com/media/CZGHPChUAAA3jqE?format=png&name=large" style="padding-right:10px;" />
 <img align="left" alt="Ruby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" style="padding-right:10px;" />
 <img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Flutter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/1920px-Google-flutter-logo.svg.png" style="padding-right:10px;" />
+<img align="left" alt="Flutter" width="26px" src="https://docs.flutter.dev/assets/images/docs/catalog-widget-placeholder.png" style="padding-right:10px;" />
 
 <br></br>
 
