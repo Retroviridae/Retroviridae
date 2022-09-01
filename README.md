@@ -19,3 +19,9 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Retroviridae&theme=highcontrast&show_icons=true&count_private=true)
 ![Leetcode stats](https://leetcard.jacoblin.cool/Retroviridae?theme=dark)
+
+I'm a software engineer with experience in healthcare and emergency management who loves learning and solving problems. I felt drawn in a new direction and have jumped in with both feet into the world of software engineering. I graduated Flatiron School's software engineering program in July of 2022 where I learned about full stack software development with JavaScript, React, Ruby, Rails. 
+
+Since then I've been looking for an opportunity to apply my skills to real world problems, and studying: expanding my knowledge of familiar topics, learning data structures and algorithms, practicing with new languages like TypeScript and Flutter. 
+
+When I am not coding I enjoy Brazillian Jiu Jitsu and wrestling, mountain biking, or playing beach volleyball with friends.  If you have role you think I'd be a good fit for or simply want to connect don't hesitate to connect with me.
