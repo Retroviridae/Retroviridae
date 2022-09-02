@@ -26,8 +26,7 @@ I'm a software engineer with experience in healthcare and emergency management w
 
 Since then I've been looking for an opportunity to apply my skills to real world problems, and studying: expanding my knowledge of familiar topics, learning data structures and algorithms, practicing with new languages like TypeScript and Flutter. 
 
-When I am not coding I enjoy Brazillian Jiu Jitsu and wrestling, mountain biking, or playing beach volleyball with friends.  If you have role you think I'd be a good fit for or simply want to connect don't hesitate to connect with me.
-
+When I am not coding I enjoy Brazillian Jiu Jitsu and wrestling, mountain biking, or playing beach volleyball with friends.
 ## Deployed Projects
 
 - [Bike Store](https://phase-5-capstone-bike-store.herokuapp.com/)
