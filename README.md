@@ -30,6 +30,4 @@ When I am not coding I enjoy Brazillian Jiu Jitsu and wrestling, mountain biking
 
 ## Deployed Projects
 
-Checkout
-
 - [Bike Store](https://phase-5-capstone-bike-store.herokuapp.com/)
